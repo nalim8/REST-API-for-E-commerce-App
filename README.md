@@ -1,4 +1,4 @@
-# E-commerce-App - REST-API
+# REST-API for E-Commerce-App
 This REST API serves as a communication interface between a React E-commerce app and a relational database.
 The relational database was created with PostgreSQL and data flow is controlled using the pg-module.
 The middleware was created with Express.
